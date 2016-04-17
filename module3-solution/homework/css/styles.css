@@ -1,0 +1,17 @@
+div.navbar {
+  background-color: #f1f2ed;
+}
+
+#nav-list a {
+  background-color:#dbc8b6;
+  color: #556273;
+}
+
+#nav-list a:hover {
+  background-color:#908483;
+  color: white;
+}
+#main-content {
+  height: 1000px;
+  background-color: #dbc8b6;
+}
